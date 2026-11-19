@@ -1,0 +1,10 @@
+# Rust derleme çıktısı
+/target/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Claude Code oturum belleği (yerel)
+.remember/
