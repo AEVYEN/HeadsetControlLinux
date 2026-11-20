@@ -55,5 +55,3 @@ JBL'in QuantumENGINE uygulamasının Linux karşılığı. Protokolü USBPcap + 
 | 10_kafa_takibi_ayarlari | Oda boyutu (USB trafiği yok), yeniden merkezle (Feature 0x5E) |
 | battery_log.csv | Pil izleme, 2026-11-18 (arastirma.md A1) |
 
-## Sıradaki adım
-[yol-haritasi.md](yol-haritasi.md) **0. adım: Rust kurulumu.** Ardından 1. adım: cihazları listelemek.
